@@ -12,6 +12,7 @@ Learning about "Introduction to logic programming" (Progress 100%)
 * Got a certificate from that class
   
 **23 Februari 2023**  
-Learning about "Basic Git with Github" (Progress 39%)
+Learning about "Basic Git with Github" (Progress 42%)
 * Learn "Study Preparation" until "experiential learning case studies"
 * The sub menu adds back the learning progress
+* The sub the challenge of adding learning progress
